@@ -12,7 +12,7 @@ import time
 url1='https://timesofindia.indiatimes.com/india/bengaluru-firm-to-build-moon-lander-for-nasa-2020-mission/articleshow/69684821.cms'
 url2='https://www.nytimes.com/2017/02/23/us/politics/cpac-stephen-bannon-reince-priebus.html?hp'
 url=[]
-for i in range(10000):
+for i in range(100):
     url.append(url2)
 
 tic=time.time()
